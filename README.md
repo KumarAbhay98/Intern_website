@@ -12,7 +12,6 @@ Suvidha Foundation is a non-profit organization dedicated to [mention the missio
 - [Installation and Usage](#installation-and-usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## About the Foundation
 
@@ -62,13 +61,4 @@ Please follow our [contribution guidelines](CONTRIBUTING.md) and code formatting
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or inquiries, please reach out to us:
-
-- Email: contact@suvidhafoundation.org
-- Website: [https://suvidhafoundation.org](https://suvidhafoundation.org)
-- Facebook: [Suvidha Foundation](https://www.facebook.com/suvidhafoundation)
-- Twitter: [Suvidha Foundation](https://twitter.com/suvidhafoundation)
-- Instagram: [Suvidha Foundation](https://www.instagram.com/suvidhafoundation)
 
